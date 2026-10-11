@@ -1,0 +1,14 @@
+﻿# Logs
+*.log
+
+# Python
+__pycache__/
+*.py[cod]
+.env
+
+# Streamlit
+.streamlit/credentials.toml
+
+# OS
+.DS_Store
+Thumbs.db
